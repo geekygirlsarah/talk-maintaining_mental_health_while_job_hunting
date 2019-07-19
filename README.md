@@ -1,4 +1,4 @@
-# Maintaining Your Mental and Emotional Health While Job Hunting
+﻿# Maintaining Your Mental and Emotional Health While Job Hunting
 
 ## Abstract
 Searching for a new job. We all have to do it at some point. In the thick of the search, you’re likely to get a lot of terrible tech interviews as well as a bunch of rejections. How do you maintain your energy, your motivation, and perhaps more importantly, not feel like a failure after all that?
@@ -8,7 +8,9 @@ I will talk a bit about my most recent job search. You’ll see how I went into 
 ## Version History:
 Date | Version | Venue
 ---- | ------- | -----
-2018-08-17 | 1.0 | Self.Conference 2018
+2018-08-17 | 1.0 | Self.Conference
+2018-10-08 | 1.1 | devUp Conf
+2019-05-03 | 1.2 | Penguicon
 
 ## Contact
 I'd love to answer any questions you have about my session. The easiest method to contact me is by Twitter: [@geekygirlsarah](https://www.twitter.com/geekygirlsarah). Other contact info is on my last slide.
