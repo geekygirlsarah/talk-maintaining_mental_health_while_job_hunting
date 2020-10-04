@@ -11,6 +11,8 @@ Date | Version | Venue
 2018-08-17 | 1.0 | Self.Conference
 2018-10-08 | 1.1 | devUp Conf
 2019-05-03 | 1.2 | Penguicon
+2020-10-03 | 1.3 | TDevConf
+
 
 ## Contact
 I'd love to answer any questions you have about my session. The easiest method to contact me is by Twitter: [@geekygirlsarah](https://www.twitter.com/geekygirlsarah). Other contact info is on my last slide.
